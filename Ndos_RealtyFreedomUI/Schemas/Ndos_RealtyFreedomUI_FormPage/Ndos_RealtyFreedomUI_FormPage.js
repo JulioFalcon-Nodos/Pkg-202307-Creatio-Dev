@@ -767,7 +767,7 @@ define("Ndos_RealtyFreedomUI_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, func
 		}/**SCHEMA_MODEL_CONFIG*/,
 			handlers: /**SCHEMA_HANDLERS*/[
 				{ // 20230719 - Presionar boton, resultado
-					request: ""usr.MyPushMeButton",
+					request: "usr.MyPushMeButton",
 
 					// The custom implementation of the system query handler. 
 					handler: async (request, next) => {
@@ -775,6 +775,7 @@ define("Ndos_RealtyFreedomUI_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, func
 						Terrasoft.showInformation("My button was pressed.");
 						var price = await request.$context.NumberAttribute_3uh99pb;
 						this.console.log("Price = " + price);
+
 						// Call the next handler if it exists and return its result. 
 						return next?.handle(request);
 					}					
