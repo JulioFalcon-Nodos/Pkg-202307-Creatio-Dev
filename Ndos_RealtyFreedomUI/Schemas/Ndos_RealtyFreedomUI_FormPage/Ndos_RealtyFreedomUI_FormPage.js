@@ -782,6 +782,7 @@ define("Ndos_RealtyFreedomUI_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, func
 				},
 				{ // 20230720 revisar
 					request: "crt.HandleViewModelAttributeChangeRequest",
+					
 					/* The custom implementation of the system query handler. */
 					handler: async (request, next) => {
 						/* If the UsrPriceUSD field changes, take the following steps. */
