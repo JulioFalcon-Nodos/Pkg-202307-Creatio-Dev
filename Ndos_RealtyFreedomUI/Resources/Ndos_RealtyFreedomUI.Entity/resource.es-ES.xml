@@ -4,11 +4,12 @@
 		<Items>
 			<Item Name="Caption" Value="Realty - Freedom UI" />
 			<Item Name="Columns.Ndos_Comentarios.Caption" Value="Comentarios" />
-			<Item Name="Columns.Ndos_Commission.Caption" Value="Comission, USD" />
+			<Item Name="Columns.Ndos_Commission.Caption" Value="Comisión, USD" />
 			<Item Name="Columns.Ndos_CommissionPercentage.Caption" Value="Porcentaje comisión" />
 			<Item Name="Columns.Ndos_Name.Caption" Value="Nombre Inmueble" />
 			<Item Name="Columns.Ndos_OperationType_FUI.Caption" Value="Tipo de Operación (Freedom UI)" />
 			<Item Name="Columns.Ndos_OwnersEmail.Caption" Value="Correo del Propietario" />
+			<Item Name="Columns.Ndos_PriceUSD.Caption" Value="Precio, USD" />
 			<Item Name="Columns.Ndos_RealtyType_Freedom.Caption" Value="Tipo de Propiedad (Freedom UI)" />
 			<Item Name="Columns.Ndos_SequenceNumber.Caption" Value="Correlativos de Inmuebles" />
 			<Item Name="Columns.Ndos_Superficie.Caption" Value="Superficie (m2)" />

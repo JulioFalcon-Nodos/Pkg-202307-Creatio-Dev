@@ -4,6 +4,7 @@
     "Name": "Ndos_AddRealtyVisitors_Freedom",
     "ModifiedOnUtc": "\/Date(1689951359000)\/",
     "ManagerName": "ProcessSchemaManager",
-    "Caption": "Add realty visitors"
+    "Caption": "Add realty visitors",
+    "DependsOn": []
   }
 }

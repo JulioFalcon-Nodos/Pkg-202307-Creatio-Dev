@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "22b707fa-1c61-4984-a5db-b5196a9c11cd",
+    "Name": "Ndos_RealtyClassicUI1Page",
+    "ModifiedOnUtc": "\/Date(1689955140000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Realty - Classic UI\""
+  }
+}

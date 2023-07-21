@@ -1,0 +1,24 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4cb4bab7-f91f-4809-a1d2-32a425fe0ddb"
+        },
+        {
+          "SchemaColumnUId": "49ad8ee2-65a6-4cdd-b8f6-85c2f10a54dc",
+          "Value": "Realty - Classic UI attachment"
+        },
+        {
+          "SchemaColumnUId": "631e7238-2751-4a21-b6d6-9f1ac0c84f95",
+          "Value": "caa3afcd-ee5d-4a88-966a-88d2a4fa7b6c"
+        },
+        {
+          "SchemaColumnUId": "8585929c-62ae-4673-ae8d-bb37f87e5144",
+          "Value": "0c43958a-a409-47bc-a3cb-9bc32451a45a"
+        }
+      ]
+    }
+  ]
+}

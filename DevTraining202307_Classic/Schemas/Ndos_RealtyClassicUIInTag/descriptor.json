@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c0367964-286e-4982-ae9d-2f515d1c0b03",
+    "Name": "Ndos_RealtyClassicUIInTag",
+    "ModifiedOnUtc": "\/Date(1689953640000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty - Classic UI section record tag",
+    "DependsOn": []
+  }
+}

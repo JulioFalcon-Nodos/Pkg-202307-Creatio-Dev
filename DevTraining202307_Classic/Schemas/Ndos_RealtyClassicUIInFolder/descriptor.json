@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "cc51bb10-c534-4839-838c-e87aac277cef",
+    "Name": "Ndos_RealtyClassicUIInFolder",
+    "ModifiedOnUtc": "\/Date(1689953634000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty - Classic UI in Folder",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty - Classic UI" />
+			<Item Name="Columns.Ndos_Corredor.Caption" Value="Manager" />
+			<Item Name="Columns.Ndos_Float1.Caption" Value="Price, USD" />
+			<Item Name="Columns.Ndos_Float2.Caption" Value="Area (m2)" />
+			<Item Name="Columns.Ndos_Float3.Caption" Value="Commission, USD" />
+			<Item Name="Columns.Ndos_Name.Caption" Value="Property Name" />
+			<Item Name="Columns.Ndos_Notes.Caption" Value="Notes" />
+			<Item Name="Columns.Ndos_OperationType_CUI.Caption" Value="Offer Type (Classic UI)" />
+			<Item Name="Columns.Ndos_PorcComision.Caption" Value="Commission Percentage" />
+			<Item Name="Columns.Ndos_RealtyType_Classic.Caption" Value="Realty Type (Classic UI)" />
+			<Item Name="Columns.Ndos_String1.Caption" Value="Owner's Email" />
+			<Item Name="Columns.Ndos_String2.Caption" Value="Comments" />
+		</Items>
+	</Group>
+</Resources>
