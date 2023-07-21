@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2808515e-92bf-4704-9ce4-2c0765304966",
+    "Name": "Ndos_FUI_RealtyType",
+    "ModifiedOnUtc": "\/Date(1689777761000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty Types (Freedom UI)",
+    "DependsOn": []
+  }
+}

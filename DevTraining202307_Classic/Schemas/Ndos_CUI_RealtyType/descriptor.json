@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "49a837b1-f76f-41ab-8d04-30d05d6244ec",
+    "Name": "Ndos_CUI_RealtyType",
+    "ModifiedOnUtc": "\/Date(1689691563000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty Type (Classic)",
+    "DependsOn": []
+  }
+}

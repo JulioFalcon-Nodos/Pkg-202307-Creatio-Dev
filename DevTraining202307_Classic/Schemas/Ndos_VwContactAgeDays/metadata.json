@@ -1,0 +1,101 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "EntitySchemaManager",
+      "UId": "9576ea29-8b6c-4b2f-9181-33f9a84c1186",
+      "A2": "Ndos_VwContactAgeDays",
+      "A5": "acc21528-7ac3-46be-bd20-e21261728e56",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "f504fad0-134e-9886-c916-699efe459981",
+      "B8": "8.0.9.1582",
+      "EG1": {
+        "UId": "605a1c32-7c77-4e0a-8628-9f4a27c801a9",
+        "A2": "Ndos_Entity_70ad8aaEventsProcess",
+        "A5": "acc21528-7ac3-46be-bd20-e21261728e56",
+        "B1": [],
+        "B2": [],
+        "B3": [],
+        "B8": "8.0.9.1582",
+        "FJ1": [],
+        "IJ3": false,
+        "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+        "BK15": [],
+        "BK37": {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+          "A2": "NotificationCaption",
+          "A3": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "A4": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {
+            "GS1": 3,
+            "GS2": "[#[PropertyValue:Caption]#]"
+          }
+        },
+        "BK1": "FFFFFFFF",
+        "BK2": "FFBBBBBB",
+        "BK3": [],
+        "BK5": [],
+        "BK4": [],
+        "BK9": [],
+        "BK10": true,
+        "BK34": "null",
+        "Labels": [],
+        "BK24": [],
+        "JC1": []
+      },
+      "D10": true,
+      "D8": "1b56b061-4e91-4974-9038-df8340e534f2",
+      "D29": "null",
+      "D30": "null",
+      "D31": "null",
+      "D3": "afc81445-4c8b-b8e6-d761-ef1f54ffbd9e",
+      "D2": [
+        {
+          "UId": "0f39df3c-3787-709f-2b70-780bc8136a03",
+          "A2": "Ndos_AgeDays",
+          "A3": "9576ea29-8b6c-4b2f-9181-33f9a84c1186",
+          "A4": "9576ea29-8b6c-4b2f-9181-33f9a84c1186",
+          "A5": "acc21528-7ac3-46be-bd20-e21261728e56",
+          "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+        },
+        {
+          "UId": "b7fdcc5c-0b80-90c2-191e-9248efd04a9f",
+          "A2": "Ndos_BirthDate",
+          "A3": "9576ea29-8b6c-4b2f-9181-33f9a84c1186",
+          "A4": "9576ea29-8b6c-4b2f-9181-33f9a84c1186",
+          "A5": "acc21528-7ac3-46be-bd20-e21261728e56",
+          "S2": "603d4960-a1a2-45e9-b232-206a54421b01"
+        },
+        {
+          "UId": "bd9681ea-3038-d251-edc1-c644eca8fdec",
+          "A2": "Ndos_Name",
+          "A3": "9576ea29-8b6c-4b2f-9181-33f9a84c1186",
+          "A4": "9576ea29-8b6c-4b2f-9181-33f9a84c1186",
+          "A5": "acc21528-7ac3-46be-bd20-e21261728e56",
+          "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
+        },
+        {
+          "UId": "afc81445-4c8b-b8e6-d761-ef1f54ffbd9e",
+          "A2": "Ndos_Id",
+          "A3": "9576ea29-8b6c-4b2f-9181-33f9a84c1186",
+          "A4": "9576ea29-8b6c-4b2f-9181-33f9a84c1186",
+          "A5": "acc21528-7ac3-46be-bd20-e21261728e56",
+          "S2": "23018567-a13c-4320-8687-fd6f9e3699bd",
+          "E2": 1
+        }
+      ],
+      "D6": [],
+      "D20": {
+        "A2": "Ndos_VwContactAgeDaysEvents"
+      },
+      "D35": {},
+      "D36": {
+        "A3": "9576ea29-8b6c-4b2f-9181-33f9a84c1186",
+        "BS1": false
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty - Freedom UI" />
+			<Item Name="Columns.Ndos_Comentarios.Caption" Value="Notes" />
+			<Item Name="Columns.Ndos_Commission.Caption" Value="Commission, USD" />
+			<Item Name="Columns.Ndos_CommissionPercentage.Caption" Value="Commission Percentage" />
+			<Item Name="Columns.Ndos_Name.Caption" Value="Property Name" />
+			<Item Name="Columns.Ndos_OperationType_FUI.Caption" Value="Offer Type (Freedom UI)" />
+			<Item Name="Columns.Ndos_OwnersEmail.Caption" Value="Owner's Email" />
+			<Item Name="Columns.Ndos_PriceUSD.Caption" Value="Price, USD" />
+			<Item Name="Columns.Ndos_RealtyType_Freedom.Caption" Value="Realty Type (Freedom UI)" />
+			<Item Name="Columns.Ndos_SequenceNumber.Caption" Value="Realty Sequence Number" />
+			<Item Name="Columns.Ndos_Superficie.Caption" Value="Area (m2)" />
+		</Items>
+	</Group>
+</Resources>

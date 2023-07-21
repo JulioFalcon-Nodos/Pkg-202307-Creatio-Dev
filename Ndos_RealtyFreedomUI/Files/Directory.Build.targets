@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/Ndos_RealtyFreedomUI/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/Ndos_RealtyFreedomUI/Data/**" />
+		<Compile Remove="$(PkgPath)/Ndos_RealtyFreedomUI/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/Ndos_RealtyFreedomUI/Schemas\**" />
+		<Compile Remove="$(PkgPath)/Ndos_RealtyFreedomUI/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/Ndos_RealtyFreedomUI/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/Ndos_RealtyFreedomUI/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/Ndos_RealtyFreedomUI/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/Ndos_RealtyFreedomUI/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/Ndos_RealtyFreedomUI/Resources/**" />
+		<None Remove="$(PkgPath)/Ndos_RealtyFreedomUI/Assemblies/**" />
+		<None Remove="$(PkgPath)/Ndos_RealtyFreedomUI/Data/**" />
+		<None Remove="$(PkgPath)/Ndos_RealtyFreedomUI/SqlScripts/**" />
+		<None Remove="$(PkgPath)/Ndos_RealtyFreedomUI/Schemas/**" />
+		<None Remove="$(PkgPath)/Ndos_RealtyFreedomUI/Resources/**" />
+  </ItemGroup>
+</Project>

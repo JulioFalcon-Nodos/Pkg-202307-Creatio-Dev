@@ -1,0 +1,41 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "34876e03-efe7-46bd-a69e-719d5b77736d",
+      "A2": "Ndos_RealtyVisit_FreedomRelatedPage",
+      "A5": "aabc7da6-e2b7-4f8a-b83f-60f8d716a370",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "bc8efcd4-ad0e-4cc9-81c2-9f5e5c5358c5",
+      "B8": "8.0.9.1582",
+      "AD1": "c889fb9f-f555-451c-9932-94d82f5cd962",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "bf3c05fd-726c-fa34-0bf5-3ac5af396020",
+      "PageSchemaUId": "5e9f3966-b10e-41f5-958c-aa996e842080",
+      "IsDefault": true,
+      "IsSspDefault": false,
+      "Actions": null,
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008"
+    },
+    {
+      "UId": "e936b088-dcc0-2024-1db4-87340ba159c1",
+      "PageSchemaUId": "5e9f3966-b10e-41f5-958c-aa996e842080",
+      "IsDefault": false,
+      "IsSspDefault": false,
+      "Actions": {
+        "Add": true
+      },
+      "Role": "a29a3ba5-4b0d-de11-9a51-005056c00008"
+    }
+  ]
+}
+    }
+  }
+}

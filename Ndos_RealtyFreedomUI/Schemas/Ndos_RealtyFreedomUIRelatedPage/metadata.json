@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "74747629-2a8a-4b60-b6f1-475a1816f2d6",
+      "A2": "Ndos_RealtyFreedomUIRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "2f0fb094-3650-4f23-ad50-baea2c5f2596",
+            "PageSchemaUId": "2072cde5-2ec9-4dfe-b2bb-79864057324f",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

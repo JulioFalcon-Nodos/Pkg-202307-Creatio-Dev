@@ -1,0 +1,49 @@
+﻿{
+  "Descriptor": {
+    "UId": "a3e460a3-2680-13c0-ae36-b07a8c280c09",
+    "Name": "Ndos_Lookup_CUI_RealtyType",
+    "ModifiedOnUtc": "\/Date(1689693870000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "49a837b1-f76f-41ab-8d04-30d05d6244ec",
+      "Name": "Ndos_CUI_RealtyType"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "3015559e-cbc6-406a-88af-07f7930be832",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ModifiedBy",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "4b7c3505-74f6-1f3e-b3ec-3447a0fa26d3",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Ndos_SequenceNumber",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      }
+    ]
+  }
+}

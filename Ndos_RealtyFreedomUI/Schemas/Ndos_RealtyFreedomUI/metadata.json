@@ -1,0 +1,143 @@
+= MetaData.Schema.UId "fc5d079f-aaa9-4c64-acba-b07c122aaee1"
+= MetaData.Schema.A2 "Ndos_RealtyFreedomUI"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+= MetaData.Schema.B6 "bc8efcd4-ad0e-4cc9-81c2-9f5e5c5358c5"
+= MetaData.Schema.EG1.UId "35ed072d-b64b-48d9-a321-be185b27409b"
+= MetaData.Schema.EG1.A2 "Ndos_RealtyFreedomUIEventsProcess"
+= MetaData.Schema.EG1.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "0.0.0.0"
+= MetaData.Schema.EG1.FJ1 []
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.EG1.Labels []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D4 "22d97f89-649b-4724-a9ec-8e6b6837fa86"
++ MetaData.Schema.D2 {
+  "UId": "22d97f89-649b-4724-a9ec-8e6b6837fa86",
+  "A2": "Ndos_Name",
+  "A3": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A4": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1,
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "44818973-6c17-d72d-cf3d-e30c7a22eaa5",
+  "A2": "Ndos_SequenceNumber",
+  "A3": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A4": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A5": "aabc7da6-e2b7-4f8a-b83f-60f8d716a370",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac",
+  "E2": 1,
+  "E5": false,
+  "E12": {
+    "FB1": 4,
+    "FB4": "RP_FUI_",
+    "FB5": 5
+  }
+}
++ MetaData.Schema.D2 {
+  "UId": "c499e6f5-4f10-b58d-509b-d331f0a4d36f",
+  "A2": "Ndos_OwnersEmail",
+  "A3": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A4": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A5": "aabc7da6-e2b7-4f8a-b83f-60f8d716a370",
+  "S2": "66cba64c-daf1-4f36-b8ea-73c0d695d90c",
+  "E25": true
+}
++ MetaData.Schema.D2 {
+  "UId": "6dc7e754-8bda-e637-9b9d-5ab2b08f9f86",
+  "A2": "Ndos_Comentarios",
+  "A3": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A4": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A5": "aabc7da6-e2b7-4f8a-b83f-60f8d716a370",
+  "S2": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
+  "E25": true
+}
++ MetaData.Schema.D2 {
+  "UId": "46d4bb62-1f20-139a-4812-540ed43b6c1b",
+  "A2": "Ndos_OperationType_FUI",
+  "A3": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A4": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A5": "aabc7da6-e2b7-4f8a-b83f-60f8d716a370",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "ae96135a-5384-4727-8cde-ca0a2463e24e",
+  "E6": true,
+  "E17": "Ndos_OperationType_FUIId",
+  "E18": "Ndos_OperationType_FUIName"
+}
++ MetaData.Schema.D2 {
+  "UId": "823bc11c-57b6-0760-1222-b229fe6f0e29",
+  "A2": "Ndos_RealtyType_Freedom",
+  "A3": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A4": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A5": "aabc7da6-e2b7-4f8a-b83f-60f8d716a370",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "2808515e-92bf-4704-9ce4-2c0765304966",
+  "E6": true,
+  "E17": "Ndos_RealtyType_FreedomId",
+  "E18": "Ndos_RealtyType_FreedomName"
+}
++ MetaData.Schema.D2 {
+  "UId": "f179024f-eb7b-5751-1ca4-0b3ef12c2b23",
+  "A2": "Ndos_Superficie",
+  "A3": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A4": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A5": "aabc7da6-e2b7-4f8a-b83f-60f8d716a370",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "203352ef-fb8e-4012-1158-8b5a66edfa9e",
+  "A2": "Ndos_PriceUSD",
+  "A3": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A4": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A5": "aabc7da6-e2b7-4f8a-b83f-60f8d716a370",
+  "S2": "969093e2-2b4e-463b-883a-3d3b8c61f0cd"
+}
++ MetaData.Schema.D2 {
+  "UId": "fed50ea6-3816-5d18-7282-f2edfde35884",
+  "A2": "Ndos_Commission",
+  "A3": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A4": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A5": "aabc7da6-e2b7-4f8a-b83f-60f8d716a370",
+  "S2": "969093e2-2b4e-463b-883a-3d3b8c61f0cd"
+}
++ MetaData.Schema.D2 {
+  "UId": "6721021d-32d5-9731-5f39-3fa3111846ce",
+  "A2": "Ndos_CommissionPercentage",
+  "A3": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A4": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+  "A5": "aabc7da6-e2b7-4f8a-b83f-60f8d716a370",
+  "S2": "ff22e049-4d16-46ee-a529-92d8808932dc"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","22d97f89-649b-4724-a9ec-8e6b6837fa86","44818973-6c17-d72d-cf3d-e30c7a22eaa5","c499e6f5-4f10-b58d-509b-d331f0a4d36f","6dc7e754-8bda-e637-9b9d-5ab2b08f9f86","46d4bb62-1f20-139a-4812-540ed43b6c1b","823bc11c-57b6-0760-1222-b229fe6f0e29","f179024f-eb7b-5751-1ca4-0b3ef12c2b23","203352ef-fb8e-4012-1158-8b5a66edfa9e","fed50ea6-3816-5d18-7282-f2edfde35884","6721021d-32d5-9731-5f39-3fa3111846ce"]
+= MetaData.Schema.D20.A2 "Ndos_RealtyFreedomUIEvents"
+= MetaData.Schema.D36.A3 "fc5d079f-aaa9-4c64-acba-b07c122aaee1"
+= MetaData.Schema.D36.BS1 false
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

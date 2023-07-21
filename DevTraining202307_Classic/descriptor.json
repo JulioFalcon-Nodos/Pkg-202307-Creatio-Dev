@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "f504fad0-134e-9886-c916-699efe459981",
+    "Name": "DevTraining202307_Classic",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1689608219000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/DevTraining202307_Classic.csproj",
+    "Description": "Para cambios en Classic UI",
+    "DependsOn": [
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}

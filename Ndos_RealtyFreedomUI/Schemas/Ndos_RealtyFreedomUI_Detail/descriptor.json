@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d7a98c49-820d-4328-8470-b1918913f323",
+    "Name": "Ndos_RealtyFreedomUI_Detail",
+    "ModifiedOnUtc": "\/Date(1689776250000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty - Freedom UI detail",
+    "DependsOn": []
+  }
+}

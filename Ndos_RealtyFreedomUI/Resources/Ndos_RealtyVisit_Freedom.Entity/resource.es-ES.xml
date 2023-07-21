@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Visitas (Freedom UI)" />
+			<Item Name="Columns.Ndos_Comments.Caption" Value="Comentarios" />
+			<Item Name="Columns.Ndos_ParentRealty_Freedom.Caption" Value="Propiedad visitada (Freedom UI)" />
+			<Item Name="Columns.Ndos_PotentialCustomer_FUI.Caption" Value="Cliente potencial" />
+			<Item Name="Columns.Ndos_VisitDateTime.Caption" Value="Día y hora de la visita" />
+			<Item Name="Columns.Ndos_VisitEmployeeInCharge_FUI.Caption" Value="Empleado que gestiona visita" />
+		</Items>
+	</Group>
+</Resources>

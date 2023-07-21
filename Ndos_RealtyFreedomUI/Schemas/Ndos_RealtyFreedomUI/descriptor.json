@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fc5d079f-aaa9-4c64-acba-b07c122aaee1",
+    "Name": "Ndos_RealtyFreedomUI",
+    "ModifiedOnUtc": "\/Date(1689868631000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty - Freedom UI",
+    "DependsOn": []
+  }
+}

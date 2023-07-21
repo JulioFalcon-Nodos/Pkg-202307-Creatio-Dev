@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edad del contacto en dias" />
+			<Item Name="Columns.Ndos_AgeDays.Caption" Value="Días" />
+			<Item Name="Columns.Ndos_BirthDate.Caption" Value="Fecha de nacimiento" />
+			<Item Name="Columns.Ndos_Name.Caption" Value="Nombre" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,26 @@
+{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3c963c97-0b1d-4a2b-af44-9c2b5ff5fe4c"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 26
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "c9969eef-85a8-4d8c-87ab-5cb6dc4534a0",
+          "DisplayValue": "My applications"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "dad900c3-2fd9-46e7-926b-96c97f59f785",
+          "DisplayValue": "Realty - Freedom UI"
+        }
+      ]
+    }
+  ]
+}

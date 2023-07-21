@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "34876e03-efe7-46bd-a69e-719d5b77736d",
+    "Name": "Ndos_RealtyVisit_FreedomRelatedPage",
+    "ModifiedOnUtc": "\/Date(1689864386000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Realty Visit (Freedom UI) (Page settings)",
+    "DependsOn": []
+  }
+}

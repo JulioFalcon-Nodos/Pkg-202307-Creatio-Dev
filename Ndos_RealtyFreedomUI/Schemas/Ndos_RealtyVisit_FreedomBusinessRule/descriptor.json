@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b9337052-552b-4404-8c21-2af6cc2eb512",
+    "Name": "Ndos_RealtyVisit_FreedomBusinessRule",
+    "ModifiedOnUtc": "\/Date(1689864384000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Realty Visit (Freedom UI) (Business rules)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Contact age in days" />
+			<Item Name="Columns.Ndos_AgeDays.Caption" Value="Days" />
+			<Item Name="Columns.Ndos_BirthDate.Caption" Value="Date birth" />
+			<Item Name="Columns.Ndos_Id.Caption" Value="Id" />
+			<Item Name="Columns.Ndos_Name.Caption" Value="Name" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>

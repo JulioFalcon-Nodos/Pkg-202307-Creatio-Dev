@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9576ea29-8b6c-4b2f-9181-33f9a84c1186",
+    "Name": "Ndos_VwContactAgeDays",
+    "ModifiedOnUtc": "\/Date(1689695535000)\/",
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Contact age in days",
+    "DependsOn": []
+  }
+}
