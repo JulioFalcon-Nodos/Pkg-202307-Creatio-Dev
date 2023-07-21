@@ -57,7 +57,7 @@ define("Ndos_RealtyFreedomUI_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, func
 					"visible": true,
 					"icon": "document-new-button-icon",
 					"clicked": {
-						"request": "crt.SaveRecordRequest"
+						"request": "usr.MyPushMeButton" //"crt.SaveRecordRequest"
 					},
 					"clickMode": "default"
 				},
@@ -766,14 +766,19 @@ define("Ndos_RealtyFreedomUI_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, func
 			}
 		}/**SCHEMA_MODEL_CONFIG*/,
 			handlers: /**SCHEMA_HANDLERS*/[
-				/*** { // 20230719 - Presionar boton, resultado
-					request: "crt.HandleViewModelAttributeChangeRequest",
+				{ // 20230719 - Presionar boton, resultado
+					request: ""usr.MyPushMeButton",
 
-					/* The custom implementation of the system query handler. 
+					// The custom implementation of the system query handler. 
 					handler: async (request, next) => {
-						this.console.log( "Click en Botón funciona")
+						this.console.log("Button works...");
+						Terrasoft.showInformation("My button was pressed.");
+						var price = await request.$context.NumberAttribute_3uh99pb;
+						this.console.log("Price = " + price);
+						// Call the next handler if it exists and return its result. 
+						return next?.handle(request);
 					}					
-				},***/
+				},
 				{ // 20230720 revisar
 					request: "crt.HandleViewModelAttributeChangeRequest",
 					/* The custom implementation of the system query handler. */
