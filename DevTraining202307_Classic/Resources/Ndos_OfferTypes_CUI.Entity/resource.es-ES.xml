@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Tipos de Oferta (Classic UI)" />
+			<Item Name="Columns.Ndos_CommissionPercentage.Caption" Value="Porcentaje Comisión" />
 		</Items>
 	</Group>
 </Resources>
