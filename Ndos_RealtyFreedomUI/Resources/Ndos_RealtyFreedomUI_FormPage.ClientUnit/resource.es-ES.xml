@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Realty - Freedom UI form page" />
+			<Item Name="LocalizableStrings.Button_8oo22if_caption.Value" Value="Agrega visitas (Proceso)" />
 		</Items>
 	</Group>
 </Resources>

@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "c889fb9f-f555-451c-9932-94d82f5cd962",
     "Name": "Ndos_RealtyVisit_Freedom",
-    "ModifiedOnUtc": "\/Date(1689864380000)\/",
+    "ModifiedOnUtc": "\/Date(1689952216000)\/",
     "Parent": {
       "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
       "Name": "BaseEntity"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Realty Visit (Freedom UI)",
-    "DependsOn": []
+    "Caption": "Realty Visit (Freedom UI)"
   }
 }

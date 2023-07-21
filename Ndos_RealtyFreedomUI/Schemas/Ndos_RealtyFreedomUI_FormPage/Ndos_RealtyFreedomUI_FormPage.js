@@ -46,6 +46,32 @@ define("Ndos_RealtyFreedomUI_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, func
 			},
 			{
 				"operation": "insert",
+				"name": "Button_8oo22if",
+				"values": {
+					"type": "crt.Button",
+					"caption": "#ResourceString(Button_8oo22if_caption)#",
+					"color": "primary",
+					"disabled": false,
+					"size": "medium",
+					"iconPosition": "left-icon",
+					"visible": true,
+					"clicked": {
+						"request": "crt.RunBusinessProcessRequest",
+						"params": {
+							"processName": "Ndos_AddRealtyVisitors_Freedom",
+							"processRunType": "ForTheSelectedPage",
+							"recordIdProcessParameterName": "RealtyPropertyID"
+						}
+					},
+					"clickMode": "default",
+					"icon": "add-button-icon"
+				},
+				"parentName": "CardToggleContainer",
+				"propertyName": "items",
+				"index": 0
+			},
+			{
+				"operation": "insert",
 				"name": "Button_Ndos_PushMe",
 				"values": {
 					"type": "crt.Button",
@@ -57,13 +83,13 @@ define("Ndos_RealtyFreedomUI_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, func
 					"visible": true,
 					"icon": "document-new-button-icon",
 					"clicked": {
-						"request": "usr.MyPushMeButton" //"crt.SaveRecordRequest"
+						"request": "usr.MyPushMeButton"
 					},
 					"clickMode": "default"
 				},
 				"parentName": "CardToggleContainer",
 				"propertyName": "items",
-				"index": 0
+				"index": 1
 			},
 			{
 				"operation": "insert",
@@ -765,7 +791,7 @@ define("Ndos_RealtyFreedomUI_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, func
 				]
 			}
 		}/**SCHEMA_MODEL_CONFIG*/,
-			handlers: /**SCHEMA_HANDLERS*/[
+		handlers: /**SCHEMA_HANDLERS*/[
 				{ // 20230719 - Presionar boton, resultado
 					request: "usr.MyPushMeButton",
 
